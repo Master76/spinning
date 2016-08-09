@@ -1,0 +1,21 @@
+{
+  "name": "spinning",
+  "version": "1.0.0",
+  "description": "yz test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "master yu",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {}
+}
